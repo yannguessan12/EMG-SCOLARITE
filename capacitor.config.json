@@ -1,0 +1,7 @@
+{
+  "appId": "com.emg.scolarite",
+  "appName": "EMG Scolarité",
+  "webDir": "www",
+  "backgroundColor": "#0a2a63",
+  "server": { "androidScheme": "https" }
+}
